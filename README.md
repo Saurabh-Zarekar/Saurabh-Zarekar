@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Saurabh-Zarekar
-- 👀 I’m interested in Resarch&Development
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Resarch & Software Development
+- 🌱 I'm currently exploring Deep Learning and backend development
 - 📫 Reach me : https://www.linkedin.com/in/saurabh-zarekar-811a00259/ or saurabhzarekar456@gmail.com
